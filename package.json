@@ -1,0 +1,8 @@
+{
+	"name": "mongodb-atlas-netlify-serverless",
+	"version": "1.0.0",
+	"dependencies": {
+		"mongodb": "^6.8.0"
+	},
+	"type": "module"
+}
